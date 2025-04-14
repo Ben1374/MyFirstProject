@@ -1,2 +1,4 @@
 THIS IS FILE2.txt
 NEW LINE FROM LOCAL REPO WAS ADDED TO FILE2.TXT
+
+This was added on GitHub from the remote repository 
